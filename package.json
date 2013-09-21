@@ -1,0 +1,24 @@
+{
+  "name": "google-fonts",
+  "version": "0.0.0",
+  "description": "A small helper library for embedding Google Fonts on your page.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/google-fonts.git"
+  },
+  "keywords": [
+    "google",
+    "fonts",
+    "webfonts",
+    "inline",
+    "embed",
+    "append"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hughsk/google-fonts/issues"
+  }
+}
