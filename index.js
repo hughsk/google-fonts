@@ -18,7 +18,7 @@ function asElement(fonts) {
 function getHref(fonts) {
   var family = Object.keys(fonts).map(function(name) {
     var details = fonts[name]
-    name = name.replace(/\s+/, '+')
+    name = name.replace(/\s+/g, '+')
     return typeof details === 'boolean'
       ? name
       : name + ':' + makeArray(details).join(',')
