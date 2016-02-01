@@ -1,6 +1,6 @@
 {
   "name": "google-fonts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A small helper library for embedding Google Fonts on your page.",
   "main": "index.js",
   "scripts": {},
