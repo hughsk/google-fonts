@@ -24,7 +24,7 @@ function getHref(fonts) {
       : name + ':' + makeArray(details).join(',')
   }).join('|')
 
-  return '//fonts.googleapis.com/css?family=' + family
+  return 'https://fonts.googleapis.com/css?family=' + family
 }
 
 function append(fonts) {
